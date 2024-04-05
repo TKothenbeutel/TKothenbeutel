@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @TKothenbeutel
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science as a Sophomore
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email!
+- 📫 How to reach me: email
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Languages Learned: Python, Java, JavaScript C, C#, SQL, SML, HTML
 
 <!---
 TKothenbeutel/TKothenbeutel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

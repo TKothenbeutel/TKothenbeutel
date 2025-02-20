@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TKothenbeutel
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science as a Sophomore
+- 🌱 I’m currently learning Computer Science as a Junior
 - 📫 How to reach me: email
 - 😄 Pronouns: He/Him
 - ⚡ Languages Learned: Python, Java, JavaScript C, C#, SQL, SML, HTML
